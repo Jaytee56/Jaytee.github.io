@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Services</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Services</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="about.html">About</a></li>
+                <li><a href="services.html">Services</a></li>
+                <li><a href="gallery.html">Gallery</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <h2>Our Services</h2>
+
+        <div class="card-container">
+            <div class="card">
+                <h3>Web Design</h3>
+                <p>Creating modern and responsive websites.</p>
+            </div>
+
+            <div class="card">
+                <h3>Graphic Design</h3>
+                <p>Designing banners, flyers, and logos.</p>
+            </div>
+
+            <div class="card">
+                <h3>Programming</h3>
+                <p>Developing software solutions using modern technologies.</p>
+            </div>
+        </div>
+    </main>
+
+    <footer>
+        <p>&copy; 2026 CYB 103 Assignment</p>
+    </footer>
+</body>
+</html>
+
+
+---
